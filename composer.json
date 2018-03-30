@@ -2,7 +2,7 @@
     "name": "jsnlib/group",
     "type": "library",
     "description": "",
-    "keywords": ["array", "object", "convert", "ArrayObject"],
+    "keywords": ["group"],
     "license": "MIT",
     "require": {
         "php": ">=5.2.4"
